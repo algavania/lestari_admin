@@ -1,0 +1,14 @@
+export 'auth/auth_repository.dart';
+export 'auth/base_auth_repository.dart';
+export 'animals/animals_repository.dart';
+export 'animals/base_animals_repository.dart';
+export 'articles/articles_repository.dart';
+export 'articles/base_articles_repository.dart';
+export 'campaigns/campaigns_repository.dart';
+export 'campaigns/base_campaigns_repository.dart';
+export 'reports/reports_repository.dart';
+export 'reports/base_reports_repository.dart';
+export 'user/user_repository.dart';
+export 'user/base_user_repository.dart';
+export 'notifications/notifications_repository.dart';
+export 'notifications/base_notifications_repository.dart';

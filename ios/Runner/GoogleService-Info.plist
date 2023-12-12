@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>159171602922-m588ibo5obvqc5km98cfkmp6h4km27en.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.159171602922-m588ibo5obvqc5km98cfkmp6h4km27en</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>159171602922-687cb2159235n91on2koa739fusjma0j.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBX9tWoUM3kQ55gAPgXq61MYf_DW-yE_jE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>159171602922</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.midnights.lestariAdmin</string>
+	<key>PROJECT_ID</key>
+	<string>lestari-42054</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lestari-42054.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:159171602922:ios:cc882681b76e253b3aaa93</string>
+</dict>
+</plist>
