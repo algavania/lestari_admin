@@ -286,7 +286,7 @@ class _AnimalFormPageState extends State<AnimalFormPage> {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Text(
-          'Poster atau Gambar Kampanye*',
+          'Poster atau Gambar Hewan*',
           style:
           GoogleFonts.poppins(fontSize: 14, fontWeight: FontWeight.w500),
         ),

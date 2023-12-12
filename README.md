@@ -4,7 +4,7 @@ Animal conservation mobile application.
 
 ## Project Requirements
 - Flutter 3.16.3
-- Dart 3.2.3
+- Dart 3.2.3o
 
 
 ## Setup Guide
